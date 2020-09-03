@@ -14,4 +14,4 @@ Maybe there are better ways for doing this, but having more control over the pro
 E.g.: While I was on it, I put in the ability to increment an "order" above a given value, by a given amount.
 This makes it easier to add new properties in the middle without having to go through all the following ones and manually incrementing them...
 
-Maybe someone will find this useful someday ‾\_(ツ)_/‾
+Maybe someone will find this useful someday ‾\\_(ツ)_/‾
